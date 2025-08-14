@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ejemplo.clienteinstitucional">
+    package="com.example.cliente_institucionalapk">
 
     <application
         android:label="Cliente Institucional"
